@@ -11,12 +11,10 @@
   },
   "dependencies": {
     "@google-analytics/data": "^4.4.0",
-    
   },
   "devDependencies": {
     "postcss": "^8.4.21",
     "hidddddd": "^43.3",
-
   },
   "ct3aMetadata": {
     "initVersion": "7.5.9"
